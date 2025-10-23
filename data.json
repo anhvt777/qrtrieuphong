@@ -46908,5 +46908,1495 @@
     "BankBin": "970418",
     "Remark": "8886739770 TRAN MINH TUY NOP MA PNN 047068928710",
     "MST": "8886739770"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH NHAN",
+    "AccountNumber": "V5TPPNN030860120401",
+    "Amount": "130",
+    "BankBin": "970418",
+    "Remark": "0308601204 LE CANH NHAN NOP MA PNN 047043136133",
+    "MST": "0308601204"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC QUYEN",
+    "AccountNumber": "V5TPPNN040097937201",
+    "Amount": "10080",
+    "BankBin": "970418",
+    "Remark": "0400979372 NGUYEN NGOC QUYEN NOP MA PNN 047062633031",
+    "MST": "0400979372"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC QUYEN",
+    "AccountNumber": "V5TPPNN040097937202",
+    "Amount": "1041",
+    "BankBin": "970418",
+    "Remark": "0400979372 NGUYEN NGOC QUYEN NOP MA PNN 047062633031",
+    "MST": "0400979372"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN VAN THANH",
+    "AccountNumber": "V5TPPNN300191560801",
+    "Amount": "2400",
+    "BankBin": "970418",
+    "Remark": "3001915608 NGUYEN VAN THANH NOP MA PNN 047069091272",
+    "MST": "3001915608"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU GA",
+    "AccountNumber": "V5TPPNN320008748301",
+    "Amount": "19200",
+    "BankBin": "970418",
+    "Remark": "3200087483 LE MAU GA NOP MA PNN 047043171028",
+    "MST": "3200087483"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU GA",
+    "AccountNumber": "V5TPPNN320008748302",
+    "Amount": "1969",
+    "BankBin": "970418",
+    "Remark": "3200087483 LE MAU GA NOP MA PNN 047043171028",
+    "MST": "3200087483"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA DINH",
+    "AccountNumber": "V5TPPNN320010883101",
+    "Amount": "22932",
+    "BankBin": "970418",
+    "Remark": "3200108831 LE BA DINH NOP MA PNN 047069080853",
+    "MST": "3200108831"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA DINH",
+    "AccountNumber": "V5TPPNN320010883102",
+    "Amount": "275",
+    "BankBin": "970418",
+    "Remark": "3200108831 LE BA DINH NOP MA PNN 047069080853",
+    "MST": "3200108831"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA DINH",
+    "AccountNumber": "V5TPPNN320010883103",
+    "Amount": "125568",
+    "BankBin": "970418",
+    "Remark": "3200108831 LE BA DINH NOP MA PNN 080001952554",
+    "MST": "3200108831"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH BIEU",
+    "AccountNumber": "V5TPPNN320033286501",
+    "Amount": "21168",
+    "BankBin": "970418",
+    "Remark": "3200332865 LE CANH BIEU NOP MA PNN 047069086793",
+    "MST": "3200332865"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH BIEU",
+    "AccountNumber": "V5TPPNN320033286502",
+    "Amount": "381",
+    "BankBin": "970418",
+    "Remark": "3200332865 LE CANH BIEU NOP MA PNN 047069086793",
+    "MST": "3200332865"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH THANG",
+    "AccountNumber": "V5TPPNN320037902001",
+    "Amount": "4440",
+    "BankBin": "970418",
+    "Remark": "3200379020 LE CANH THANG NOP MA PNN CN11310400053",
+    "MST": "3200379020"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH THANG",
+    "AccountNumber": "V5TPPNN320037902002",
+    "Amount": "500",
+    "BankBin": "970418",
+    "Remark": "3200379020 LE CANH THANG NOP MA PNN CN11310400053",
+    "MST": "3200379020"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO LE PHONG",
+    "AccountNumber": "V5TPPNN320039151801",
+    "Amount": "5760",
+    "BankBin": "970418",
+    "Remark": "3200391518 VO LE PHONG NOP MA PNN 047066062099",
+    "MST": "3200391518"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO LE PHONG",
+    "AccountNumber": "V5TPPNN320039151802",
+    "Amount": "210",
+    "BankBin": "970418",
+    "Remark": "3200391518 VO LE PHONG NOP MA PNN 047066062099",
+    "MST": "3200391518"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU HA",
+    "AccountNumber": "V5TPPNN320039687601",
+    "Amount": "19200",
+    "BankBin": "970418",
+    "Remark": "3200396876 LE MAU HA NOP MA PNN CN11310700007",
+    "MST": "3200396876"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU HA",
+    "AccountNumber": "V5TPPNN320039687602",
+    "Amount": "1839",
+    "BankBin": "970418",
+    "Remark": "3200396876 LE MAU HA NOP MA PNN CN11310700007",
+    "MST": "3200396876"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602705",
+    "Amount": "11520",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043171133",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602706",
+    "Amount": "1142",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043171133",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602707",
+    "Amount": "30720",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203022",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602708",
+    "Amount": "2941",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203022",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602709",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203119",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602710",
+    "Amount": "920",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203119",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602711",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203207",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602712",
+    "Amount": "920",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047043203207",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602713",
+    "Amount": "64768",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047064734235",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602714",
+    "Amount": "6203",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 047064734235",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602715",
+    "Amount": "483552",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 080001738414",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602716",
+    "Amount": "39603",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 080001738414",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN QUOC NAM",
+    "AccountNumber": "V5TPPNN320040602717",
+    "Amount": "28288",
+    "BankBin": "970418",
+    "Remark": "3200406027 DOAN QUOC NAM NOP MA PNN 080001952567",
+    "MST": "3200406027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MINH HAI",
+    "AccountNumber": "V5TPPNN320047642601",
+    "Amount": "19200",
+    "BankBin": "970418",
+    "Remark": "3200476426 LE MINH HAI NOP MA PNN 047043202896",
+    "MST": "3200476426"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MINH HAI",
+    "AccountNumber": "V5TPPNN320047642602",
+    "Amount": "1839",
+    "BankBin": "970418",
+    "Remark": "3200476426 LE MINH HAI NOP MA PNN 047043202896",
+    "MST": "3200476426"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI HOA",
+    "AccountNumber": "V5TPPNN320056708801",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "3200567088 LE THI HOA NOP MA PNN 047069014917",
+    "MST": "3200567088"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI HOA",
+    "AccountNumber": "V5TPPNN320056708802",
+    "Amount": "173",
+    "BankBin": "970418",
+    "Remark": "3200567088 LE THI HOA NOP MA PNN 047069014917",
+    "MST": "3200567088"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TAN TAI",
+    "AccountNumber": "V5TPPNN320068773001",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "3200687730 VO TAN TAI NOP MA PNN 047065731929",
+    "MST": "3200687730"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TAN TAI",
+    "AccountNumber": "V5TPPNN320068773002",
+    "Amount": "1139",
+    "BankBin": "970418",
+    "Remark": "3200687730 VO TAN TAI NOP MA PNN 047065731929",
+    "MST": "3200687730"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN VAN QUANG",
+    "AccountNumber": "V5TPPNN802100008313",
+    "Amount": "1269",
+    "BankBin": "970418",
+    "Remark": "8021000083 NGUYEN VAN QUANG NOP MA PNN 047043211449",
+    "MST": "8021000083"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI THU HUYEN",
+    "AccountNumber": "V5TPPNN802453337901",
+    "Amount": "3840",
+    "BankBin": "970418",
+    "Remark": "8024533379 TRAN THI THU HUYEN NOP MA PNN 047067485978",
+    "MST": "8024533379"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI THU HUYEN",
+    "AccountNumber": "V5TPPNN802453337902",
+    "Amount": "491",
+    "BankBin": "970418",
+    "Remark": "8024533379 TRAN THI THU HUYEN NOP MA PNN 047067485978",
+    "MST": "8024533379"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH QUANG VINH",
+    "AccountNumber": "V5TPPNN804612061801",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8046120618 LE CANH QUANG VINH NOP MA PNN 047067284471",
+    "MST": "8046120618"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH QUANG VINH",
+    "AccountNumber": "V5TPPNN804612061802",
+    "Amount": "613",
+    "BankBin": "970418",
+    "Remark": "8046120618 LE CANH QUANG VINH NOP MA PNN 047067284471",
+    "MST": "8046120618"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA DUNG",
+    "AccountNumber": "V5TPPNN806964796101",
+    "Amount": "113",
+    "BankBin": "970418",
+    "Remark": "8069647961 LE BA DUNG NOP MA PNN 047043017561",
+    "MST": "8069647961"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH TRI",
+    "AccountNumber": "V5TPPNN807236948901",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "8072369489 LE CANH TRI NOP MA PNN 047069082297",
+    "MST": "8072369489"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH TRI",
+    "AccountNumber": "V5TPPNN807236948902",
+    "Amount": "173",
+    "BankBin": "970418",
+    "Remark": "8072369489 LE CANH TRI NOP MA PNN 047069082297",
+    "MST": "8072369489"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN NGOC CHUNG",
+    "AccountNumber": "V5TPPNN808294047901",
+    "Amount": "5280",
+    "BankBin": "970418",
+    "Remark": "8082940479 DOAN NGOC CHUNG NOP MA PNN 047043211109",
+    "MST": "8082940479"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "DOAN NGOC CHUNG",
+    "AccountNumber": "V5TPPNN808294047902",
+    "Amount": "938",
+    "BankBin": "970418",
+    "Remark": "8082940479 DOAN NGOC CHUNG NOP MA PNN 047043211109",
+    "MST": "8082940479"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "HOANG THI THANH NHAN",
+    "AccountNumber": "V5TPPNN808580651301",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8085806513 HOANG THI THANH NHAN NOP MA PNN 047043212171",
+    "MST": "8085806513"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "HOANG THI THANH NHAN",
+    "AccountNumber": "V5TPPNN808580651302",
+    "Amount": "460",
+    "BankBin": "970418",
+    "Remark": "8085806513 HOANG THI THANH NHAN NOP MA PNN 047043212171",
+    "MST": "8085806513"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CONG HUY",
+    "AccountNumber": "V5TPPNN809200156601",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8092001566 LE CONG HUY NOP MA PNN 047069023834",
+    "MST": "8092001566"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CONG HUY",
+    "AccountNumber": "V5TPPNN809200156602",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8092001566 LE CONG HUY NOP MA PNN 047069023834",
+    "MST": "8092001566"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "HO NGOC QUYNH",
+    "AccountNumber": "V5TPPNN809716402803",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8097164028 HO NGOC QUYNH NOP MA PNN 047043203230",
+    "MST": "8097164028"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC BAO ANH",
+    "AccountNumber": "V5TPPNN809764023801",
+    "Amount": "5760",
+    "BankBin": "970418",
+    "Remark": "8097640238 NGUYEN NGOC BAO ANH NOP MA PNN 047067280916",
+    "MST": "8097640238"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC BAO ANH",
+    "AccountNumber": "V5TPPNN809764023802",
+    "Amount": "736",
+    "BankBin": "970418",
+    "Remark": "8097640238 NGUYEN NGOC BAO ANH NOP MA PNN 047067280916",
+    "MST": "8097640238"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU CUONG",
+    "AccountNumber": "V5TPPNN812527315901",
+    "Amount": "10080",
+    "BankBin": "970418",
+    "Remark": "8125273159 LE MAU CUONG NOP MA PNN 047064024565",
+    "MST": "8125273159"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU CUONG",
+    "AccountNumber": "V5TPPNN812527315902",
+    "Amount": "489",
+    "BankBin": "970418",
+    "Remark": "8125273159 LE MAU CUONG NOP MA PNN 047064024565",
+    "MST": "8125273159"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MINH TOAN",
+    "AccountNumber": "V5TPPNN813323158601",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8133231586 LE MINH TOAN NOP MA PNN 047069017585",
+    "MST": "8133231586"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MINH TOAN",
+    "AccountNumber": "V5TPPNN813323158602",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8133231586 LE MINH TOAN NOP MA PNN 047069017585",
+    "MST": "8133231586"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934401",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047043202815",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934402",
+    "Amount": "86",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047043202815",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934403",
+    "Amount": "32520",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047067286046",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934404",
+    "Amount": "7983",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047067286046",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934405",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047067606262",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934406",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN 047067606262",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934407",
+    "Amount": "3360",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN CN11310800081",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TRUNG",
+    "AccountNumber": "V5TPPNN816596934408",
+    "Amount": "60",
+    "BankBin": "970418",
+    "Remark": "8165969344 LE BA TRUNG NOP MA PNN CN11310800081",
+    "MST": "8165969344"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE  THI THUONG",
+    "AccountNumber": "V5TPPNN816726727701",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "8167267277 LE  THI THUONG NOP MA PNN 047069052804",
+    "MST": "8167267277"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE  THI THUONG",
+    "AccountNumber": "V5TPPNN816726727702",
+    "Amount": "173",
+    "BankBin": "970418",
+    "Remark": "8167267277 LE  THI THUONG NOP MA PNN 047069052804",
+    "MST": "8167267277"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU XA",
+    "AccountNumber": "V5TPPNN816726758001",
+    "Amount": "17200",
+    "BankBin": "970418",
+    "Remark": "8167267580 LE MAU XA NOP MA PNN 047069050889",
+    "MST": "8167267580"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU XA",
+    "AccountNumber": "V5TPPNN816726758002",
+    "Amount": "310",
+    "BankBin": "970418",
+    "Remark": "8167267580 LE MAU XA NOP MA PNN 047069050889",
+    "MST": "8167267580"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI HOA",
+    "AccountNumber": "V5TPPNN816726769301",
+    "Amount": "130",
+    "BankBin": "970418",
+    "Remark": "8167267693 TRAN THI HOA NOP MA PNN 047043148591",
+    "MST": "8167267693"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THE HUU",
+    "AccountNumber": "V5TPPNN816726936201",
+    "Amount": "7560",
+    "BankBin": "970418",
+    "Remark": "8167269362 LE THE HUU NOP MA PNN 047067475137",
+    "MST": "8167269362"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THE HUU",
+    "AccountNumber": "V5TPPNN816726936202",
+    "Amount": "977",
+    "BankBin": "970418",
+    "Remark": "8167269362 LE THE HUU NOP MA PNN 047067475137",
+    "MST": "8167269362"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA EM",
+    "AccountNumber": "V5TPPNN816726943601",
+    "Amount": "6720",
+    "BankBin": "970418",
+    "Remark": "8167269436 LE BA EM NOP MA PNN 047069068624",
+    "MST": "8167269436"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA EM",
+    "AccountNumber": "V5TPPNN816726943602",
+    "Amount": "121",
+    "BankBin": "970418",
+    "Remark": "8167269436 LE BA EM NOP MA PNN 047069068624",
+    "MST": "8167269436"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH NGOC",
+    "AccountNumber": "V5TPPNN816726991901",
+    "Amount": "65",
+    "BankBin": "970418",
+    "Remark": "8167269919 LE CANH NGOC NOP MA PNN 047043171296",
+    "MST": "8167269919"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TON THAT THANH",
+    "AccountNumber": "V5TPPNN818793339801",
+    "Amount": "24000",
+    "BankBin": "970418",
+    "Remark": "8187933398 TON THAT THANH NOP MA PNN 047064291204",
+    "MST": "8187933398"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TON THAT THANH",
+    "AccountNumber": "V5TPPNN818793339802",
+    "Amount": "2977",
+    "BankBin": "970418",
+    "Remark": "8187933398 TON THAT THANH NOP MA PNN 047064291204",
+    "MST": "8187933398"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "HOANG MINH VIET",
+    "AccountNumber": "V5TPPNN819068457501",
+    "Amount": "5760",
+    "BankBin": "970418",
+    "Remark": "8190684575 HOANG MINH VIET NOP MA PNN 047067280783",
+    "MST": "8190684575"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "HOANG MINH VIET",
+    "AccountNumber": "V5TPPNN819068457502",
+    "Amount": "736",
+    "BankBin": "970418",
+    "Remark": "8190684575 HOANG MINH VIET NOP MA PNN 047067280783",
+    "MST": "8190684575"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LUU",
+    "AccountNumber": "V5TPPNN827745875705",
+    "Amount": "419",
+    "BankBin": "970418",
+    "Remark": "8277458757 NGUYEN THI LUU NOP MA PNN 047064489760",
+    "MST": "8277458757"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LUU",
+    "AccountNumber": "V5TPPNN827745875706",
+    "Amount": "131200",
+    "BankBin": "970418",
+    "Remark": "8277458757 NGUYEN THI LUU NOP MA PNN 080001601022",
+    "MST": "8277458757"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LUU",
+    "AccountNumber": "V5TPPNN827745875707",
+    "Amount": "25191",
+    "BankBin": "970418",
+    "Remark": "8277458757 NGUYEN THI LUU NOP MA PNN 080001601022",
+    "MST": "8277458757"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI THUY HONG",
+    "AccountNumber": "V5TPPNN827989339201",
+    "Amount": "3840",
+    "BankBin": "970418",
+    "Remark": "8279893392 TRAN THI THUY HONG NOP MA PNN 047067405904",
+    "MST": "8279893392"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA LAM",
+    "AccountNumber": "V5TPPNN830647987401",
+    "Amount": "3360",
+    "BankBin": "970418",
+    "Remark": "8306479874 LE BA LAM NOP MA PNN 047066539316",
+    "MST": "8306479874"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LE THU",
+    "AccountNumber": "V5TPPNN833744945301",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "8337449453 NGUYEN THI LE THU NOP MA PNN 047069003922",
+    "MST": "8337449453"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN MINH DUC",
+    "AccountNumber": "V5TPPNN834771489403",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8347714894 TRAN MINH DUC NOP MA PNN 047064762370",
+    "MST": "8347714894"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "PHAM NHU Y",
+    "AccountNumber": "V5TPPNN839418044901",
+    "Amount": "5712",
+    "BankBin": "970418",
+    "Remark": "8394180449 PHAM NHU Y NOP MA PNN 047065439941",
+    "MST": "8394180449"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "PHAM NHU Y",
+    "AccountNumber": "V5TPPNN839418044902",
+    "Amount": "1355",
+    "BankBin": "970418",
+    "Remark": "8394180449 PHAM NHU Y NOP MA PNN 047065439941",
+    "MST": "8394180449"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI HONG TU",
+    "AccountNumber": "V5TPPNN841138733301",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8411387333 LE THI HONG TU NOP MA PNN 047065841838",
+    "MST": "8411387333"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI HONG TU",
+    "AccountNumber": "V5TPPNN841138733302",
+    "Amount": "683",
+    "BankBin": "970418",
+    "Remark": "8411387333 LE THI HONG TU NOP MA PNN 047065841838",
+    "MST": "8411387333"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TIENG",
+    "AccountNumber": "V5TPPNN842582150403",
+    "Amount": "21840",
+    "BankBin": "970418",
+    "Remark": "8425821504 VO TIENG NOP MA PNN 047043211793",
+    "MST": "8425821504"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TIENG",
+    "AccountNumber": "V5TPPNN842582150404",
+    "Amount": "1991",
+    "BankBin": "970418",
+    "Remark": "8425821504 VO TIENG NOP MA PNN 047043211793",
+    "MST": "8425821504"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TIENG",
+    "AccountNumber": "V5TPPNN842582150405",
+    "Amount": "11520",
+    "BankBin": "970418",
+    "Remark": "8425821504 VO TIENG NOP MA PNN 047046496480",
+    "MST": "8425821504"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO TIENG",
+    "AccountNumber": "V5TPPNN842582150406",
+    "Amount": "1103",
+    "BankBin": "970418",
+    "Remark": "8425821504 VO TIENG NOP MA PNN 047046496480",
+    "MST": "8425821504"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI TAO",
+    "AccountNumber": "V5TPPNN843745646101",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8437456461 LE THI TAO NOP MA PNN 047065834014",
+    "MST": "8437456461"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI TAO",
+    "AccountNumber": "V5TPPNN843745646102",
+    "Amount": "683",
+    "BankBin": "970418",
+    "Remark": "8437456461 LE THI TAO NOP MA PNN 047065834014",
+    "MST": "8437456461"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI HUYEN",
+    "AccountNumber": "V5TPPNN844085783301",
+    "Amount": "39",
+    "BankBin": "970418",
+    "Remark": "8440857833 LE THI HUYEN NOP MA PNN 047043119709",
+    "MST": "8440857833"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO MINH DUC",
+    "AccountNumber": "V5TPPNN845098128301",
+    "Amount": "640",
+    "BankBin": "970418",
+    "Remark": "8450981283 VO MINH DUC NOP MA PNN 047066998514",
+    "MST": "8450981283"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI MY KINH",
+    "AccountNumber": "V5TPPNN847704991301",
+    "Amount": "42",
+    "BankBin": "970418",
+    "Remark": "8477049913 NGUYEN THI MY KINH NOP MA PNN 047064742444",
+    "MST": "8477049913"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH PHUONG",
+    "AccountNumber": "V5TPPNN849777036901",
+    "Amount": "6720",
+    "BankBin": "970418",
+    "Remark": "8497770369 LE CANH PHUONG NOP MA PNN 047069020789",
+    "MST": "8497770369"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH PHUONG",
+    "AccountNumber": "V5TPPNN849777036902",
+    "Amount": "121",
+    "BankBin": "970418",
+    "Remark": "8497770369 LE CANH PHUONG NOP MA PNN 047069020789",
+    "MST": "8497770369"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH DUNG",
+    "AccountNumber": "V5TPPNN852186141101",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8521861411  LE CANH DUNG NOP MA PNN 047068971777",
+    "MST": "8521861411"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH DUNG",
+    "AccountNumber": "V5TPPNN852186141102",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8521861411  LE CANH DUNG NOP MA PNN 047068971777",
+    "MST": "8521861411"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THUY HANG",
+    "AccountNumber": "V5TPPNN853269942515",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8532699425 LE THI THUY HANG NOP MA PNN 047062583810",
+    "MST": "8532699425"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THUY HANG",
+    "AccountNumber": "V5TPPNN853269942516",
+    "Amount": "485",
+    "BankBin": "970418",
+    "Remark": "8532699425 LE THI THUY HANG NOP MA PNN 047062583810",
+    "MST": "8532699425"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THUY HANG",
+    "AccountNumber": "V5TPPNN853269942517",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "8532699425 LE THI THUY HANG NOP MA PNN 047062583814",
+    "MST": "8532699425"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THUY HANG",
+    "AccountNumber": "V5TPPNN853269942518",
+    "Amount": "307",
+    "BankBin": "970418",
+    "Remark": "8532699425 LE THI THUY HANG NOP MA PNN 047062583814",
+    "MST": "8532699425"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI LAN HUONG",
+    "AccountNumber": "V5TPPNN854921068101",
+    "Amount": "20160",
+    "BankBin": "970418",
+    "Remark": "8549210681 TRAN THI LAN HUONG NOP MA PNN 047065440008",
+    "MST": "8549210681"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN THI LAN HUONG",
+    "AccountNumber": "V5TPPNN854921068102",
+    "Amount": "104",
+    "BankBin": "970418",
+    "Remark": "8549210681 TRAN THI LAN HUONG NOP MA PNN 047065440008",
+    "MST": "8549210681"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI YEN",
+    "AccountNumber": "V5TPPNN856084327901",
+    "Amount": "8640",
+    "BankBin": "970418",
+    "Remark": "8560843279 LE THI YEN NOP MA PNN 047069014790",
+    "MST": "8560843279"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI YEN",
+    "AccountNumber": "V5TPPNN856084327902",
+    "Amount": "156",
+    "BankBin": "970418",
+    "Remark": "8560843279 LE THI YEN NOP MA PNN 047069014790",
+    "MST": "8560843279"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THIEN",
+    "AccountNumber": "V5TPPNN857312391201",
+    "Amount": "6672",
+    "BankBin": "970418",
+    "Remark": "8573123912 NGUYEN THIEN NOP MA PNN 047065530679",
+    "MST": "8573123912"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THIEN",
+    "AccountNumber": "V5TPPNN857312391202",
+    "Amount": "1584",
+    "BankBin": "970418",
+    "Remark": "8573123912 NGUYEN THIEN NOP MA PNN 047065530679",
+    "MST": "8573123912"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH NGHIEM",
+    "AccountNumber": "V5TPPNN859150052101",
+    "Amount": "130",
+    "BankBin": "970418",
+    "Remark": "8591500521 LE CANH NGHIEM NOP MA PNN 047043017220",
+    "MST": "8591500521"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA PHU",
+    "AccountNumber": "V5TPPNN859557710901",
+    "Amount": "15372",
+    "BankBin": "970418",
+    "Remark": "8595577109 LE BA PHU NOP MA PNN 047068978881",
+    "MST": "8595577109"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA PHU",
+    "AccountNumber": "V5TPPNN859557710902",
+    "Amount": "277",
+    "BankBin": "970418",
+    "Remark": "8595577109 LE BA PHU NOP MA PNN 047068978881",
+    "MST": "8595577109"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CONG NAM",
+    "AccountNumber": "V5TPPNN860481341101",
+    "Amount": "3840",
+    "BankBin": "970418",
+    "Remark": "8604813411 LE CONG NAM NOP MA PNN 047067481760",
+    "MST": "8604813411"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CONG NAM",
+    "AccountNumber": "V5TPPNN860481341102",
+    "Amount": "491",
+    "BankBin": "970418",
+    "Remark": "8604813411 LE CONG NAM NOP MA PNN 047067481760",
+    "MST": "8604813411"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH NHAN",
+    "AccountNumber": "V5TPPNN866157113401",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8661571134 LE CANH NHAN NOP MA PNN 047069024166",
+    "MST": "8661571134"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH NHAN",
+    "AccountNumber": "V5TPPNN866157113402",
+    "Amount": "52",
+    "BankBin": "970418",
+    "Remark": "8661571134 LE CANH NHAN NOP MA PNN 047069024166",
+    "MST": "8661571134"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC CHIEM",
+    "AccountNumber": "V5TPPNN866527893001",
+    "Amount": "5280",
+    "BankBin": "970418",
+    "Remark": "8665278930 NGUYEN NGOC CHIEM NOP MA PNN 047067360897",
+    "MST": "8665278930"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN NGOC CHIEM",
+    "AccountNumber": "V5TPPNN866527893002",
+    "Amount": "675",
+    "BankBin": "970418",
+    "Remark": "8665278930 NGUYEN NGOC CHIEM NOP MA PNN 047067360897",
+    "MST": "8665278930"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRUONG VINH",
+    "AccountNumber": "V5TPPNN867145613001",
+    "Amount": "130",
+    "BankBin": "970418",
+    "Remark": "8671456130 TRUONG VINH NOP MA PNN 047043119140",
+    "MST": "8671456130"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE HUY DAO",
+    "AccountNumber": "V5TPPNN867347679902",
+    "Amount": "32",
+    "BankBin": "970418",
+    "Remark": "8673476799 LE HUY DAO NOP MA PNN 047043171075",
+    "MST": "8673476799"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE HUY DAO",
+    "AccountNumber": "V5TPPNN867347679903",
+    "Amount": "37500",
+    "BankBin": "970418",
+    "Remark": "8673476799 LE HUY DAO NOP MA PNN 080001601115",
+    "MST": "8673476799"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE HUY DAO",
+    "AccountNumber": "V5TPPNN867347679904",
+    "Amount": "7595",
+    "BankBin": "970418",
+    "Remark": "8673476799 LE HUY DAO NOP MA PNN 080001601115",
+    "MST": "8673476799"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU MINH",
+    "AccountNumber": "V5TPPNN869308552101",
+    "Amount": "130",
+    "BankBin": "970418",
+    "Remark": "8693085521 LE MAU MINH NOP MA PNN 047043070487",
+    "MST": "8693085521"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA TAC",
+    "AccountNumber": "V5TPPNN869814901701",
+    "Amount": "4800",
+    "BankBin": "970418",
+    "Remark": "8698149017 LE BA TAC NOP MA PNN 047068974497",
+    "MST": "8698149017"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE MAU TUAN",
+    "AccountNumber": "V5TPPNN870137589001",
+    "Amount": "39",
+    "BankBin": "970418",
+    "Remark": "8701375890 LE MAU TUAN NOP MA PNN 047043107643",
+    "MST": "8701375890"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN CHI DUNG",
+    "AccountNumber": "V5TPPNN870722190701",
+    "Amount": "20056",
+    "BankBin": "970418",
+    "Remark": "8707221907 NGUYEN CHI DUNG NOP MA PNN 047043211882",
+    "MST": "8707221907"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN HUNG",
+    "AccountNumber": "V5TPPNN871977806501",
+    "Amount": "11520",
+    "BankBin": "970418",
+    "Remark": "8719778065 NGUYEN HUNG NOP MA PNN 080001601135",
+    "MST": "8719778065"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN HUNG",
+    "AccountNumber": "V5TPPNN871977806502",
+    "Amount": "2212",
+    "BankBin": "970418",
+    "Remark": "8719778065 NGUYEN HUNG NOP MA PNN 080001601135",
+    "MST": "8719778065"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO QUANG THANG",
+    "AccountNumber": "V5TPPNN872222415501",
+    "Amount": "8640",
+    "BankBin": "970418",
+    "Remark": "8722224155 VO QUANG THANG NOP MA PNN 047043219843",
+    "MST": "8722224155"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "VO QUANG THANG",
+    "AccountNumber": "V5TPPNN872222415502",
+    "Amount": "48064",
+    "BankBin": "970418",
+    "Remark": "8722224155 VO QUANG THANG NOP MA PNN 080001601137",
+    "MST": "8722224155"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA CUONG",
+    "AccountNumber": "V5TPPNN873893559501",
+    "Amount": "11340",
+    "BankBin": "970418",
+    "Remark": "8738935595 LE BA CUONG NOP MA PNN 047069086681",
+    "MST": "8738935595"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE BA CUONG",
+    "AccountNumber": "V5TPPNN873893559502",
+    "Amount": "1065",
+    "BankBin": "970418",
+    "Remark": "8738935595 LE BA CUONG NOP MA PNN 047069086681",
+    "MST": "8738935595"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE CANH HAO",
+    "AccountNumber": "V5TPPNN878582384201",
+    "Amount": "14400",
+    "BankBin": "970418",
+    "Remark": "8785823842 LE CANH HAO NOP MA PNN 047065708974",
+    "MST": "8785823842"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN BA QUOC",
+    "AccountNumber": "V5TPPNN879138802701",
+    "Amount": "2880",
+    "BankBin": "970418",
+    "Remark": "8791388027 TRAN BA QUOC NOP MA PNN 047065732795",
+    "MST": "8791388027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "TRAN BA QUOC",
+    "AccountNumber": "V5TPPNN879138802702",
+    "Amount": "683",
+    "BankBin": "970418",
+    "Remark": "8791388027 TRAN BA QUOC NOP MA PNN 047065732795",
+    "MST": "8791388027"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THIEN",
+    "AccountNumber": "V5TPPNN879321223701",
+    "Amount": "9600",
+    "BankBin": "970418",
+    "Remark": "8793212237 LE THI THIEN NOP MA PNN 047065785478",
+    "MST": "8793212237"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THIEN",
+    "AccountNumber": "V5TPPNN879321223702",
+    "Amount": "2278",
+    "BankBin": "970418",
+    "Remark": "8793212237 LE THI THIEN NOP MA PNN 047065785478",
+    "MST": "8793212237"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THAO",
+    "AccountNumber": "V5TPPNN879473545501",
+    "Amount": "14400",
+    "BankBin": "970418",
+    "Remark": "8794735455 LE THI THAO NOP MA PNN 047065803142",
+    "MST": "8794735455"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE THI THAO",
+    "AccountNumber": "V5TPPNN879473545502",
+    "Amount": "3417",
+    "BankBin": "970418",
+    "Remark": "8794735455 LE THI THAO NOP MA PNN 047065803142",
+    "MST": "8794735455"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE NHU LOC",
+    "AccountNumber": "V5TPPNN883968295001",
+    "Amount": "5760",
+    "BankBin": "970418",
+    "Remark": "8839682950 LE NHU LOC NOP MA PNN 047067026881",
+    "MST": "8839682950"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "LE NHU LOC",
+    "AccountNumber": "V5TPPNN883968295002",
+    "Amount": "104",
+    "BankBin": "970418",
+    "Remark": "8839682950 LE NHU LOC NOP MA PNN 047067026881",
+    "MST": "8839682950"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LIEN",
+    "AccountNumber": "V5TPPNN888836151901",
+    "Amount": "14400",
+    "BankBin": "970418",
+    "Remark": "8888361519 NGUYEN THI LIEN NOP MA PNN 047069024696",
+    "MST": "8888361519"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN THI LIEN",
+    "AccountNumber": "V5TPPNN888836151902",
+    "Amount": "259",
+    "BankBin": "970418",
+    "Remark": "8888361519 NGUYEN THI LIEN NOP MA PNN 047069024696",
+    "MST": "8888361519"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN TU",
+    "AccountNumber": "V5TPPNN889941580801",
+    "Amount": "16800",
+    "BankBin": "970418",
+    "Remark": "8899415808 NGUYEN TU NOP MA PNN 047069082804",
+    "MST": "8899415808"
+  },
+  {
+    "PHƯỜNG/XÃ": "XA TRIEU PHONG (Triệu Thành cũ)",
+    "THÔN/TỔ/KHU PHỐ": "BICH LA DONG",
+    "AccountName": "NGUYEN TU",
+    "AccountNumber": "V5TPPNN889941580802",
+    "Amount": "302",
+    "BankBin": "970418",
+    "Remark": "8899415808 NGUYEN TU NOP MA PNN 047069082804",
+    "MST": "8899415808"
   }
 ]
